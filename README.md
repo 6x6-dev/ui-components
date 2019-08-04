@@ -1,6 +1,5 @@
-# UI Library
-
-create a UI library for use on a website
+# UI Components
+create a UI component library for use on a website
 
 ## Requirements
 
